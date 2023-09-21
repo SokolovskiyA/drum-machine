@@ -1,6 +1,7 @@
 ## DruMachine
 ## This is a small reactJS project that uses react basics to create a simple drum machine with multiple arrays of sounds to choose from. 
 ## You can play drum machine by clicking on the pads or using keyboard for more comfortable use. 
+working prototype https://majestic-puppy-3bc563.netlify.app
 
 
 _______________________________________________________

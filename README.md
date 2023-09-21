@@ -1,3 +1,10 @@
+DruMachine
+This is a small reactJS project that uses react basics to create a simple drum machine with multiple arrays of sounds to choose from. 
+You can play drum machine by clicking on the pads or using keyboard for more comfortable use. 
+
+
+_______________________________________________________
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
